@@ -21,15 +21,15 @@ The notebook provides a step-by-step guide on:
 
 
 You can read more about the llama-2 model [here](https://ai.meta.com/llama/).<br>
-<img src="./images/llama_2b.png" width="800">
+<img src="./images/llama_2b.png" width="500">
 <br><br>
 
 This project utilizes the [Hugging Face API](https://huggingface.co/) to load the model and also demonstrates how to save it.<br>
-<img src="./images/hugging_face.png" width="800">
+<img src="./images/hugging_face.png" width="500">
 <br><br>
 
 [Tensorboard](https://www.tensorflow.org/tensorboard) was utilized to visualize the training loss.
-<img src="./images/tensorboard.png" width="800">
+<img src="./images/tensorboard.png" width="500">
 <br><br>
 
 
