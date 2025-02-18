@@ -69,8 +69,8 @@ It's highly recommended to use a virtual environment to manage dependencies.
 1.  **Clone the repository:**
 
     ```
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/benahalkar/loading_and_finetuning_LLMs.git
+    cd loading_and_finetuning_LLMs
     ```
 
 2.  **Install the requirements:**
