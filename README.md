@@ -53,7 +53,6 @@ Before running the notebook, ensure you have the following libraries installed:
 *   accelerate
 *   evaluate
 *   scikit-learn
-*   (Add any other libraries used)
 
 You can install these using pip:
 
